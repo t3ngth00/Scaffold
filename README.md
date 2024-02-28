@@ -1,6 +1,6 @@
 # Walkthrough. Scaffold
 
-Repository Name: **Scaffold**\\
+Repository Name: **Scaffold**\
 GitHub URL: [Scaffold](https://github.com/t3ngth00/Scaffold)\\
 
 Description:\\
